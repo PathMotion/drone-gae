@@ -46,5 +46,3 @@ pipeline:
       event: [tag, push]
       branch:
         - master
-
-# trigger the CI
