@@ -28,7 +28,7 @@ pipeline:
 
   publish:
     image: plugins/docker
-    repo: nytimes/drone-gae
+    repo: pathmotion/drone-gae
     secrets:
       - docker_username
       - docker_password
